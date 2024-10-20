@@ -1,19 +1,19 @@
-// console.log("Muhammad Hussain")
+console.log("Muhammad Hussain")
 
-// let score = "22Hussain"
-// console.log(typeof score)
-// console.log(typeof (score))
+let score = "22Hussain"
+console.log(typeof score)
+console.log(typeof (score))
 
-// let valInNum = Number(score)
-// console.log(typeof valInNum)
-// console.log(valInNum)
+let valInNum = Number(score)
+console.log(typeof valInNum)
+console.log(valInNum)
 
-// let valu = null
-// console.log(typeof valu)
+let valu = null
+console.log(typeof valu)
 
-// let valuInNum = Number(valu)
-// console.log(typeof valuInNum)
-// console.log(valuInNum)
+let valuInNum = Number(valu)
+console.log(typeof valuInNum)
+console.log(valuInNum)
 
 // By applying Number(left), values converted into right.
 // left                 right
@@ -25,13 +25,13 @@
 // false                => 0
 // true                 => 1
 
-// let isLoggedIn = 1
-// let booleanIsLoggedIn = Boolean(isLoggedIn)
-// console.log(booleanIsLoggedIn)
+let isLoggedIn = 1
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+console.log(booleanIsLoggedIn)
 
-// let notLoggedIn = 0
-// let booleanNotLoggedIn = Boolean(notLoggedIn)
-// console.log(booleanNotLoggedIn)
+let notLoggedIn = 0
+let booleanNotLoggedIn = Boolean(notLoggedIn)
+console.log(booleanNotLoggedIn)
 
 // By applying Boolean(left), values converted into right.
 // left                 right
